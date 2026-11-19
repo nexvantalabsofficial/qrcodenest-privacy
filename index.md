@@ -1,12 +1,12 @@
-# QR Studio — Privacy Policy
+# QRCodeNest — Privacy Policy
 
 **Effective date:** 19 November 2026
-**App:** QR Studio (package `app.qrstudio`)
+**App:** QRCodeNest (package `com.nexvantalabs.qrcodenest`)
 **Contact:** nexvantalabsofficial@gmail.com
 
 ## Summary
 
-QR Studio does not collect, store on any server, upload, sell or share your personal information. Everything the app does happens on your phone. The app has no internet access at all.
+QRCodeNest does not collect, store on any server, upload, sell or share your personal information. Everything the app does happens on your phone. The app has no internet access at all.
 
 ## What the app does with your data
 
@@ -25,7 +25,7 @@ QR Studio does not collect, store on any server, upload, sell or share your pers
 
 ## No tracking, ads or analytics
 
-QR Studio contains no advertising, analytics, crash-reporting or tracking software, and does not create any advertising ID or user profile.
+QRCodeNest contains no advertising, analytics, crash-reporting or tracking software, and does not create any advertising ID or user profile.
 
 ## Opening what you scan
 
@@ -37,7 +37,7 @@ Saved codes and settings live only in the app's private storage. You can delete 
 
 ## Children
 
-QR Studio does not collect personal information from anyone, including children.
+QRCodeNest does not collect personal information from anyone, including children.
 
 ## Changes to this policy
 
